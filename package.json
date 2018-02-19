@@ -4,15 +4,11 @@
   "description": "Make the webworld friendly again! 👍",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
     "test": "mocha && xo --fix"
-=======
-    "test": "xo --fix"
   },
    "repository": {
     "type": "git",
-    "url": "http://git@github.com/theonejonahgold/censor-swears.git"
->>>>>>> 533177d13ef63255a0802e2e7113cb65c537c96b
+    "url": "https://github.com/timruiterkamp/make-friendly"
   },
   "author": "Tim Ruiterkamp <timruiterkamp@gmail.com>",
   "license": "MIT",
