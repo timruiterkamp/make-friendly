@@ -17,7 +17,7 @@ require("make-friendly");
 
 ### Vowel
 
-The vowel method uses `(value, character)` and returns a `string`.
+The vowel method uses `(value, character)` and returns a `string`.  
 To use the vowel replacement use:
 
 ```javascript
@@ -28,7 +28,7 @@ mf("butt", "@"); // returns 'b@tt'
 
 ### Inner
 
-The inner method uses `(value, character)` and returns a `string`.
+The inner method uses `(value, character)` and returns a `string`.  
 To use the inner replacement use:
 
 ```javascript
@@ -39,7 +39,7 @@ mf.inner("butt", "$"); // returns 'b$$t'
 
 ### grawlix
 
-The grawlix method uses `(value, pattern)` and returns a `string`.
+The grawlix method uses `(value, pattern)` and returns a `string`.  
 To use the inner replacement use:
 
 ```javascript
@@ -51,9 +51,9 @@ mf.grawlix(5); // returns '@#$%!'
 
 ## Testing
 
-The **make-friendly** uses [xo](https://www.npmjs.com/package/xo) to enforce readable code.
-Beside the XO package, we also use [Mocha](https://www.npmjs.com/package/mocha) for testing.
-To run the XO and Mocha package simply use `npm test`.
+The **make-friendly** uses [xo](https://www.npmjs.com/package/xo) to enforce readable code.  
+Beside the XO package, we also use [Mocha](https://www.npmjs.com/package/mocha) for testing.  
+To run the XO and Mocha package simply use `npm test`.  
 
 ## License
 
