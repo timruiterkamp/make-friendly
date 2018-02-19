@@ -6,17 +6,18 @@
   "scripts": {
     "test": "mocha && xo --fix"
   },
-   "repository": {
+  "author": "Tim Ruiterkamp <timruiterkamp@gmail.com>",
+  "repository": {
     "type": "git",
     "url": "https://github.com/timruiterkamp/make-friendly"
   },
-  "author": "Tim Ruiterkamp <timruiterkamp@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/timruiterkamp/make-friendly/issues"
+  },
+  "keywords": ["friendly-web", "string", "censored", "vowel", "grawlix"],
   "license": "MIT",
   "xo": {
-    "envs": [
-      "node",
-      "mocha"
-    ]
+    "envs": ["node", "mocha"]
   },
   "devDependencies": {
     "mocha": "^5.0.1",
