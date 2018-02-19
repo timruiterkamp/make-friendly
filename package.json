@@ -1,0 +1,30 @@
+{
+  "name": "make-friendly",
+  "version": "1.0.0",
+  "description": "Make the webworld friendly again! 👍",
+  "main": "index.js",
+  "scripts": {
+<<<<<<< HEAD
+    "test": "mocha && xo --fix"
+=======
+    "test": "xo --fix"
+  },
+   "repository": {
+    "type": "git",
+    "url": "http://git@github.com/theonejonahgold/censor-swears.git"
+>>>>>>> 533177d13ef63255a0802e2e7113cb65c537c96b
+  },
+  "author": "Tim Ruiterkamp <timruiterkamp@gmail.com>",
+  "license": "MIT",
+  "xo": {
+    "envs": [
+      "node",
+      "mocha"
+    ]
+  },
+  "devDependencies": {
+    "mocha": "^5.0.1",
+    "repeat-string": "^1.6.1",
+    "xo": "^0.20.3"
+  }
+}
