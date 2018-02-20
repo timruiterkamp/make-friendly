@@ -5,7 +5,7 @@ The **Make-friendly** package allows you to replace swear words with censored wo
 ## How to install
 
 To install make-friendly use:
-`npm install make-friendly --save-dev`
+`npm install make-friendly --save`
 
 ## How to use
 
